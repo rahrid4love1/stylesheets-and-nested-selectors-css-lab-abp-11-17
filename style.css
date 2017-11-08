@@ -18,4 +18,5 @@ header nav ul{
 }
 nav ul li{
   display: inline;
+  font-size: 18px;
 }
